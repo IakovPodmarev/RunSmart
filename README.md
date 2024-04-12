@@ -1,2 +1,2 @@
 # RunSmart
-Адаптивный сайт со слайдерами, всплывающими окнами, мэйлером, валидацией форм, интерактивной картой и другими скриптами.
+Responsive website with sliders, pop-ups, mailer, form validation, interactive map and other scripts.
